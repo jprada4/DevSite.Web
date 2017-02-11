@@ -6,7 +6,7 @@
 		<meta charset="utf-8"> 
 		<title>Design</title>
 		<meta name="viewpoint" content="width=device-width, initial-scale=1">
-        <link href="~/Content/Index.css" type="text/css" />
+        <link rel="stylesheet" type="text/css" href="~/Content/Index.css"/>
 	</head>
 		<body>
 
